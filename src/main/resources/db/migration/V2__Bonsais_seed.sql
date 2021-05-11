@@ -1,0 +1,16 @@
+INSERT INTO bonsais (name) values ('Old fashion Japan');
+INSERT INTO bonsais (name) values ('Banana Tree');
+INSERT INTO bonsais (name) values ('Bouquet');
+INSERT INTO bonsais (name) values ('Brighamia');
+INSERT INTO bonsais (name) values ('Cupresus');
+INSERT INTO bonsais (name) values ('EasyShade Bay');
+INSERT INTO bonsais (name) values ('Exotic Palm');
+INSERT INTO bonsais (name) values ('Fruitless Fig');
+INSERT INTO bonsais (name) values ('jade plant');
+INSERT INTO bonsais (name) values ('Japanese maple');
+INSERT INTO bonsais (name) values ('Midbiscus');
+INSERT INTO bonsais (name) values ('Olive tree');
+INSERT INTO bonsais (name) values ('Palm copernica');
+INSERT INTO bonsais (name) values ('Palm');
+INSERT INTO bonsais (name) values ('Philodendron');
+INSERT INTO bonsais (name) values ('Variation');
