@@ -15,4 +15,13 @@ public class BonsaiService {
     public List<Bonsai> getBonsais() {
         return repository.findAll();
     }
+
+    public void sell(Long id) {
+        repository
+                .findById(id)
+                .ifPresent(bonsai -> {
+                    bonsai.sell();
+                    repository.save(bonsai);
+                });
+    }
 }

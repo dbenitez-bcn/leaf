@@ -28,4 +28,8 @@ public class Bonsai {
     public boolean isSold() {
         return sold;
     }
+
+    public void sell() {
+        this.sold = true;
+    }
 }
